@@ -17,7 +17,7 @@ theme:
     - search.suggest
 
 nav:
-  - Home: index.md
+  - Home: docs/index.md
   - About:
       - About This Project: about.md
   - Articles:
