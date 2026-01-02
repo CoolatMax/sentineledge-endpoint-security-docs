@@ -135,9 +135,9 @@ This approach helps ensure consistent protection across multiple attack stages, 
 
 This product overview intentionally excludes the following topics:
 
-* Installation and deployment procedures
-* Detailed configuration and policy settings
-* Advanced technical architecture and implementation details
+* Installation and deployment procedures.
+* Detailed configuration and policy settings.
+* Advanced technical architecture and implementation details.
 
 These subjects are addressed in separate, more technical documentation.
 
